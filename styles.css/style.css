@@ -1,0 +1,57 @@
+body {
+    margin: 0 0;
+    background-color: #D5E1EF;
+}
+
+main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.container {
+    height: 66vh;
+    width: 410px;
+    background-color: white;
+    border-radius: 20px;
+    display: flex;
+    align-items:center;
+    justify-content:center;
+    flex-direction: column;
+}
+
+.background-img {
+    height: 41vh;
+    width: 41vh;
+    border-radius: 20px;
+    display: flex;
+    align-items:center;
+    justify-content:center;
+    background-color: #3685FE;
+}
+.img-QR-code {
+    height: 25vh;
+    width: 25vh;
+    border-radius: 20px;
+}
+
+h1 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    text-align: center;
+    font-size: 3vh;
+    color: #1E2D44;
+    margin-bottom: 1vh;
+}
+
+h2{
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    font-size: 2vh;
+    color: #878F9A;
+    margin-top: 1vh;
+}
