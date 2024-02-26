@@ -3,7 +3,7 @@ Bem-vindo ao projeto de Layout Responsivo utilizando HTML e CSS! Este repositór
 
 ## Visualize e acesse a Página
 ![image](https://github.com/samuel-almeida-dev/QR-code-component/assets/130515347/a2dbe349-131c-40e1-a51a-133390c32f9a)
-Para visualizar a página em ação, acesse este link.
+Para visualizar a página em ação, acesse este [link](https://samuel-almeida-dev.github.io/QR-code-component/).
 
 ## Visão Geral
 Neste projeto, você encontrará:
